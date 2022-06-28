@@ -7,7 +7,7 @@ An android music player app **with animation** which plays all songs available i
 
 # Objective 
 
-+ The main focus in this app is show a playlist of songs available in your device and **show the animation**
++ The main focus in this app is show a playlist of songs available in your device and **shows the animation**
 + play the song.
 + pause the song.
 + play next song.
